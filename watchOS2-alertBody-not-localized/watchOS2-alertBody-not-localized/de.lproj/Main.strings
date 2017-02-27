@@ -1,0 +1,6 @@
+
+/* Class = "UIButton"; normalTitle = "Send notification in 4sec"; ObjectID = "RAM-WP-bSg"; */
+"RAM-WP-bSg.normalTitle" = "Send notification in 4sec";
+
+/* Class = "UILabel"; text = "Press the button to send a UNUserNotification. Sending is delayed by 4 seconds to have enough time to turn device off and let watchOS receive the message. Issue: If the dynamic long look notification is presented on a watchOS 2.x device, the alert body text is not translated automatically as it is on the static long look notification."; ObjectID = "fsu-Ld-idd"; */
+"fsu-Ld-idd.text" = "Press the button to send a UNUserNotification. Sending is delayed by 4 seconds to have enough time to turn device off and let watchOS receive the message. Issue: If the dynamic long look notification is presented on a watchOS 2.x device, the alert body text is not translated automatically as it is on the static long look notification.";

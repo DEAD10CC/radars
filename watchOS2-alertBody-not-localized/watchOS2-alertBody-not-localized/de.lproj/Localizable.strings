@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  watchOS2-alertBody-not-localized
+
+  Created by Markus Michel on 27.02.17.
+  Copyright © 2017 Markus Michel. All rights reserved.
+*/
+"should_be_localized" = "Ist übersetzt!";
